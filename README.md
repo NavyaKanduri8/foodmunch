@@ -4,7 +4,7 @@ The "Food Munch" website is a modern and responsive online platform designed to 
 
 A responsive website for "Food Munch," a food delivery service, built using HTML, CSS, and Bootstrap.
 
-
+---
 
 ## Table of Contents
 
@@ -63,16 +63,29 @@ To run this project locally, follow these steps:
     ```bash
     cd food-munch-website
     ```
-3.  **Open `index.html`:**
-    Simply open the `index.html` file in your web browser.
-
----
-
+3.  **Open `foodmuch.html`:**
+    Simply open the `foodmuch.html` file in your web browser.
 
 
 ## Screenshots
 
-*(Optional: Add screenshots of different sections or responsiveness here to give a visual overview of the website.)*
+Here are some screenshots showcasing different sections of the Food Munch website:
+
+### Hero Section
+
+![Hero Section](images/screenshot-1.jpg)
+
+### Explore Menu Section
+
+![Explore Menu Section](images/screenshot-2.jpg)
+
+### Delivery, Payment & Thank You Sections
+
+![Delivery, Payment & Thank You Sections](images/screenshot-3.jpg)
+
+### Follow Us & Footer Sections
+
+![Follow Us & Footer Sections](images/screenshot-4.png)
 
 ---
 
