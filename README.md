@@ -12,7 +12,6 @@ A responsive website for "Food Munch," a food delivery service, built using HTML
 * [Features](#features)
 * [Technologies Used](#technologies-used)
 * [Setup Instructions](#setup-instructions)
-* [Live Demo](#live-demo)
 * [Screenshots](#screenshots)
 * [Contributing](#contributing)
 * [License](#license)
