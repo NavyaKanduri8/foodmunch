@@ -72,7 +72,7 @@ Here are some screenshots showcasing different sections of the Food Munch websit
 
 ### Hero Section
 
-![Hero Section](images/screenshot-1.jpg)
+![Hero Section](Screenshot 2025-06-08 150639.png)
 
 ### Explore Menu Section
 
